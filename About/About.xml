@@ -27,10 +27,10 @@
       </li>
     </v1.5>
   </modDependenciesByVersion>
-  <description>Die deutsche Übersetzung der Mod ‚EdB Prepare Carefully‘.
-  [Mod-Version 1.5.12]
+  <description>Die deutsche Übersetzung der Mod ‚EdB Prepare Carefully‘. \n[Mod-Version 1.5.12]
 </description>
   <loadAfter>
     <li>net.pardeike.rimworld.mod.harmony</li>
+    <li>EdB.PrepareCarefully</li>
   </loadAfter>
 </ModMetaData>
