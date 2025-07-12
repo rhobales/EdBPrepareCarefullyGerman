@@ -11,12 +11,6 @@
   <modDependenciesByVersion>
     <v1.5>
       <li>
-        <packageId>brrainz.harmony</packageId>
-        <displayName>Harmony</displayName>
-        <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
-        <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
-      </li>
-      <li>
         <packageId>EdB.PrepareCarefully</packageId>
         <displayName>EdB Prepare Carefully</displayName>
         <steamWorkshopUrl>steam://url/CommunityFilePage/735106432</steamWorkshopUrl>
@@ -24,12 +18,6 @@
       </li>
     </v1.5>
     <v1.6>
-      <li>
-        <packageId>brrainz.harmony</packageId>
-        <displayName>Harmony</displayName>
-        <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
-        <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
-      </li>
       <li>
         <packageId>EdB.PrepareCarefully</packageId>
         <displayName>EdB Prepare Carefully</displayName>
@@ -41,7 +29,6 @@
   <description>Die deutsche Übersetzung der Mod ‚EdB Prepare Carefully‘.
 </description>
   <loadAfter>
-    <li>net.pardeike.rimworld.mod.harmony</li>
     <li>EdB.PrepareCarefully</li>
   </loadAfter>
 </ModMetaData>
